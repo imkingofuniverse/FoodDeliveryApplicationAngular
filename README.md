@@ -17,6 +17,13 @@
 
 ![Screenshot (413)](https://user-images.githubusercontent.com/63497314/203346489-ae7f8726-8ed5-469a-8b0c-7bc26f852539.png)
 
+![Screenshot (418)](https://user-images.githubusercontent.com/63497314/203347504-95d0eea9-96e4-4492-92e7-bd9aab4b0cf0.png)
+
+![Screenshot (419)](https://user-images.githubusercontent.com/63497314/203347558-a97ced13-a11d-4648-b7ba-6315f0e0e656.png)
+
+![Screenshot (420)](https://user-images.githubusercontent.com/63497314/203347597-fe89ebc6-ab3c-42e1-ac68-a3870fa935a9.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
 ## Development server
